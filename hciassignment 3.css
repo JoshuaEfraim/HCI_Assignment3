@@ -1,0 +1,49 @@
+body {
+    background-color:aquamarine;
+    width: 100vw;
+    max-width: 1000px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    font-family: 'Times New Roman';
+}
+
+.align {
+    text-align: center;
+}
+
+
+.head-color {
+    background: burlywood;
+    position: center; 
+    border : 2px solid black;
+}
+
+h1 {
+    margin:0;
+}
+
+fieldset {
+    margin-top:20px;
+    background-color: bisque;
+    margin-bottom:20px;
+    border : 2px solid black;
+}
+
+.school {
+    width:49%;
+    float:left;
+    border : 2px solid black;
+    background-color: aqua;
+}
+
+.skills {
+    width:49%;
+    float:right;
+    text-align: center;
+    border : 2px solid black;
+    height: 177px;
+    background-color:darkcyan;
+    color:azure;
+}
+
